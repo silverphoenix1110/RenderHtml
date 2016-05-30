@@ -13,7 +13,7 @@ var data = [
     },
     {
         title : 'React',
-        content : 'Learn React'
+        content : 'Learn React<br> Make by Facebook'
     },
     {
         title : 'NodeJS',
