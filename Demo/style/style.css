@@ -7,6 +7,8 @@
 }
 
 #boardDiv{
+    box-shadow: 10px 12px 21px -7px rgba(0,0,0,0.75);
+    border-radius: 10px;
     padding-top: 15px;
     padding-left: 15px;
     padding-right: 15px;
@@ -22,10 +24,11 @@
 #boardDiv h1{
     font-size: 25px;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .ticket{
+    border-radius: 5px;
     padding: 5px;
     margin-bottom: 15px;
     background-color: #2A9CEC;
